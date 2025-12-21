@@ -1,0 +1,167 @@
+cs1302-api-app/:
+total 76
+-rw-r--r--. 1 myid 10744 Nov 26 13:00 APPENDIX_API.md
+-rw-r--r--. 1 myid  3427 Nov 26 13:00 APPENDIX_GIT.md
+drwxr-xr-x. 2 myid    59 Nov 26 13:00 meta
+-rw-r--r--. 1 myid 13820 Nov 26 13:00 pom.xml
+-rwxr-xr-x. 1 myid   104 Nov 26 13:00 prepare-merge.sh
+-rw-r--r--. 1 myid 30147 Nov 26 13:00 README.md
+-rw-r--r--. 1 myid     0 Dec  8 12:42 rec3292524
+drwxr-xr-x. 2 myid   126 Dec  7 18:20 resources
+-rwxr-xr-x. 1 myid   122 Nov 26 13:00 run.sh
+drwxr-xr-x. 4 myid    42 Nov 26 13:00 src
+drwxr-xr-x. 6 myid  4096 Dec  8 12:37 target
+
+cs1302-api-app/meta:
+total 8
+-rw-r--r--. 1 myid  999 Nov 26 13:00 ATTRIBUTION.md
+-rw-r--r--. 1 myid 1569 Nov 26 13:00 DEADLINE.md
+
+cs1302-api-app/resources:
+total 2064
+-rw-r--r--. 1 myid      83 Dec  5 10:53 config.properties
+-rw-r--r--. 1 myid  582183 Nov 26 13:00 readme-banner.png
+-rw-r--r--. 1 myid 1518790 Nov 26 13:00 readme-newrepo.png
+-rw-r--r--. 1 myid    2938 Dec  7 18:20 theme-apiApp.css
+
+cs1302-api-app/src:
+total 0
+drwxr-xr-x. 3 myid 26 Nov 26 13:00 main
+drwxr-xr-x. 3 myid 50 Nov 26 13:00 site
+
+cs1302-api-app/src/main:
+total 0
+drwxr-xr-x. 3 myid 56 Nov 26 13:00 java
+
+cs1302-api-app/src/main/java:
+total 4
+drwxr-xr-x. 3 myid  25 Dec  1 16:34 cs1302
+-rw-r--r--. 1 myid 403 Nov 26 13:00 module-info.java
+
+cs1302-api-app/src/main/java/cs1302:
+total 4
+drwxr-xr-x. 3 myid 4096 Dec  8 12:20 api
+
+cs1302-api-app/src/main/java/cs1302/api:
+total 88
+-rw-r--r--. 1 myid 8844 Dec  8 11:54 ApiApp.java
+-rw-r--r--. 1 myid 1285 Nov 26 13:00 ApiDriver.java
+-rw-r--r--. 1 myid  649 Dec  7 14:54 Attributes.java
+-rw-r--r--. 1 myid  211 Dec  7 16:00 Connection.java
+-rw-r--r--. 1 myid 2254 Dec  7 19:28 CustomTableView.java
+-rw-r--r--. 1 myid  119 Dec  7 14:54 Data.java
+drwxr-xr-x. 2 myid  133 Nov 26 13:00 example
+-rw-r--r--. 1 myid   77 Dec  6 15:00 #Flag.java#
+-rw-r--r--. 1 myid  130 Dec  7 15:49 Flag.java
+-rw-r--r--. 1 myid 1110 Dec  7 15:57 KeyProperties.java
+-rw-r--r--. 1 myid 1096 Dec  7 15:26 LastAnalysisResult.java
+-rw-r--r--. 1 myid  217 Dec  7 15:38 LastAnalysisStats.java
+-rw-r--r--. 1 myid 3392 Dec  8 11:37 RequestAPIVT.java
+-rw-r--r--. 1 myid 2940 Dec  8 12:20 RequestAPIWI.java
+-rw-r--r--. 1 myid  271 Dec  7 16:02 Security.java
+-rw-r--r--. 1 myid  287 Dec  7 15:59 Timezone.java
+-rw-r--r--. 1 myid  171 Dec  7 16:04 TotalVotes.java
+-rw-r--r--. 1 myid 3152 Dec  8 10:38 ViewSummary.java
+-rw-r--r--. 1 myid  183 Dec  7 14:53 VTResponse.java
+-rw-r--r--. 1 myid  570 Dec  7 16:03 WIResponse.java
+-rw-r--r--. 1 myid 3236 Dec  7 18:29 WIView.java
+
+cs1302-api-app/src/main/java/cs1302/api/example:
+total 20
+-rw-r--r--. 1 myid  231 Nov 26 13:00 OpenLibraryDoc.java
+-rw-r--r--. 1 myid  245 Nov 26 13:00 OpenLibraryResult.java
+-rw-r--r--. 1 myid 4365 Nov 26 13:00 OpenLibrarySearchApiExample.java
+-rw-r--r--. 1 myid 2201 Nov 26 13:00 PropertiesExample.java
+
+cs1302-api-app/src/site:
+total 4
+drwxr-xr-x. 2 myid  33 Nov 26 13:00 markdown
+-rw-r--r--. 1 myid 424 Nov 26 13:00 site.xml
+
+cs1302-api-app/src/site/markdown:
+total 4
+-rw-r--r--. 1 myid 133 Nov 26 13:00 index.md.vm
+
+cs1302-api-app/target:
+total 2092
+-rw-r--r--. 1 myid    2304 Dec  8 12:37 checkstyle-cachefile
+-rw-r--r--. 1 myid    4311 Dec  8 12:37 checkstyle-checker.xml
+-rw-r--r--. 1 myid    2492 Dec  8 12:37 checkstyle-result.xml
+drwxr-xr-x. 3 myid     173 Dec  8 12:37 classes
+-rw-r--r--. 1 myid 2121038 Dec  8 12:37 cs1302-api-2025.11-SNAPSHOT.jar
+drwxr-xr-x. 3 myid      25 Dec  8 12:37 generated-sources
+drwxr-xr-x. 2 myid      28 Dec  8 12:37 maven-archiver
+drwxr-xr-x. 3 myid      43 Dec  8 12:37 maven-status
+-rw-r--r--. 1 myid    1299 Dec  8 12:37 modulepath
+
+cs1302-api-app/target/classes:
+total 2068
+-rw-r--r--. 1 myid      83 Dec  8 12:37 config.properties
+drwxr-xr-x. 3 myid      25 Dec  8 12:37 cs1302
+-rw-r--r--. 1 myid     390 Dec  8 12:37 module-info.class
+-rw-r--r--. 1 myid  582183 Dec  8 12:37 readme-banner.png
+-rw-r--r--. 1 myid 1518790 Dec  8 12:37 readme-newrepo.png
+-rw-r--r--. 1 myid    2938 Dec  8 12:37 theme-apiApp.css
+
+cs1302-api-app/target/classes/cs1302:
+total 4
+drwxr-xr-x. 3 myid 4096 Dec  8 12:37 api
+
+cs1302-api-app/target/classes/cs1302/api:
+total 96
+-rw-r--r--. 1 myid 11153 Dec  8 12:37 ApiApp.class
+-rw-r--r--. 1 myid  1503 Dec  8 12:37 ApiDriver.class
+-rw-r--r--. 1 myid  1018 Dec  8 12:37 Attributes.class
+-rw-r--r--. 1 myid   446 Dec  8 12:37 Connection.class
+-rw-r--r--. 1 myid  2412 Dec  8 12:37 CustomTableView.class
+-rw-r--r--. 1 myid   306 Dec  8 12:37 Data.class
+drwxr-xr-x. 2 myid   157 Dec  8 12:37 example
+-rw-r--r--. 1 myid   356 Dec  8 12:37 Flag.class
+-rw-r--r--. 1 myid  1584 Dec  8 12:37 KeyProperties.class
+-rw-r--r--. 1 myid   871 Dec  8 12:37 LastAnalysisResult.class
+-rw-r--r--. 1 myid   401 Dec  8 12:37 LastAnalysisStats.class
+-rw-r--r--. 1 myid  4642 Dec  8 12:37 RequestAPIVT.class
+-rw-r--r--. 1 myid  4159 Dec  8 12:37 RequestAPIWI.class
+-rw-r--r--. 1 myid   452 Dec  8 12:37 Security.class
+-rw-r--r--. 1 myid   471 Dec  8 12:37 Timezone.class
+-rw-r--r--. 1 myid   320 Dec  8 12:37 TotalVotes.class
+-rw-r--r--. 1 myid  3332 Dec  8 12:37 ViewSummary.class
+-rw-r--r--. 1 myid   312 Dec  8 12:37 VTResponse.class
+-rw-r--r--. 1 myid   870 Dec  8 12:37 WIResponse.class
+-rw-r--r--. 1 myid  4157 Dec  8 12:37 WIView.class
+
+cs1302-api-app/target/classes/cs1302/api/example:
+total 20
+-rw-r--r--. 1 myid  357 Dec  8 12:37 OpenLibraryDoc.class
+-rw-r--r--. 1 myid  391 Dec  8 12:37 OpenLibraryResult.class
+-rw-r--r--. 1 myid 5108 Dec  8 12:37 OpenLibrarySearchApiExample.class
+-rw-r--r--. 1 myid 1704 Dec  8 12:37 PropertiesExample.class
+
+cs1302-api-app/target/generated-sources:
+total 0
+drwxr-xr-x. 2 myid 10 Dec  8 12:37 annotations
+
+cs1302-api-app/target/generated-sources/annotations:
+total 0
+
+cs1302-api-app/target/maven-archiver:
+total 4
+-rw-r--r--. 1 myid 66 Dec  8 12:37 pom.properties
+
+cs1302-api-app/target/maven-status:
+total 0
+drwxr-xr-x. 3 myid 29 Dec  8 12:37 maven-compiler-plugin
+
+cs1302-api-app/target/maven-status/maven-compiler-plugin:
+total 0
+drwxr-xr-x. 3 myid 37 Dec  8 12:37 compile
+
+cs1302-api-app/target/maven-status/maven-compiler-plugin/compile:
+total 0
+drwxr-xr-x. 2 myid 64 Dec  8 12:37 default-compile
+
+cs1302-api-app/target/maven-status/maven-compiler-plugin/compile/default-compile:
+total 8
+-rw-r--r--. 1 myid  732 Dec  8 12:37 createdFiles.lst
+-rw-r--r--. 1 myid 1884 Dec  8 12:37 inputFiles.lst
+/home/myid/est69860/cs1302-api-app/:/home/myid/csci-1302
