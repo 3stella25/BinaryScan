@@ -90,9 +90,9 @@ API keys (if required) are **not hardcoded** and should be provided via environm
 Below are example screenshots demonstrating BinaryScan in action. Screenshots should be placed in a `/screenshots` directory at the root of the repository.
 
 ```md
-![BinaryScan Main Interface](screenshots/main-ui.png)
-![VirusTotal Results View](screenshots/virustotal-results.png)
-![IPWhois Details View](screenshots/ipwhois-results.png)
+### Main Interface
+![Main Interface](Demo.png)
+![Main Interface with 404 Error Handling](ErrorDemo.png)
 ```
 
 ---
