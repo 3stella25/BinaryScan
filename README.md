@@ -2,7 +2,7 @@
 
 BinaryScan is a Java-based application that integrates multiple RESTful APIs to analyze and enrich user-provided input with external intelligence. The project focuses on clean API integration, structured JSON handling, and a simple, interactive desktop interface.
 
-At a high level, BinaryScan consumes **two RESTful APIs** to retrieve metadata and reputation signals, processes the responses in Java, and presents actionable results to the user via a JavaFX UI.
+At a high level, BinaryScan consumes **two RESTful APIs** to retrieve metadata and reputation signals, processes the responses in Java, and presents actionable results to the user via a JavaFX UI. The source code is located in the src folder.
 
 ---
 
