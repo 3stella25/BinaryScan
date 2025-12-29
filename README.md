@@ -44,6 +44,9 @@ Provides threat intelligence and reputation data by aggregating results from mul
 * Reputation or risk indicators
 * Associated security vendor results
 
+**JSON Object Representation:**
+[https://docs.virustotal.com/reference/url-object](https://docs.virustotal.com/reference/url-object)
+
 ---
 
 ### 2. IPWhois API
@@ -100,6 +103,10 @@ Below are example screenshots demonstrating BinaryScan in action. Screenshots sh
 * Practice structured JSON parsing and data modeling
 * Combine backend logic with a clean JavaFX frontend
 * Apply secure and ethical API consumption practices
+
+## Project Results
+
+* blah blah results
 
 ---
 
