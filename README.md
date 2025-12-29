@@ -106,7 +106,10 @@ Below are example screenshots demonstrating BinaryScan in action. Screenshots sh
 
 ## Project Results
 
-* blah blah results
+* Delivered a Java-based desktop security application that aggregates blacklist-based threat intelligence from 95+ VirusTotal engines, enabling instant URL reputation verdicts instead of fragmented manual checks
+* Hardened credential security by implementing secure API key management and Base64 encoding, reducing risk of credential exposure across multiple threat intelligence integrations
+* Enhanced threat context and investigative depth by integrating the IPWhois API with Java networking libraries to automatically enrich URLs with IP metadata, geolocation, and network ownership
+* Accelerated security decision-making by designing an intuitive JavaFX dashboard that visualizes consolidated threat consensus, cutting analysis time from hours to seconds
 
 ---
 
