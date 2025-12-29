@@ -29,7 +29,7 @@ BinaryScan relies on third-party APIs to enrich input data. These APIs are **con
 Provides threat intelligence and reputation data by aggregating results from multiple antivirus engines and security vendors. VirusTotal helps assess whether a URL, domain, or IP address has been associated with malicious activity.
 
 **API Link:**
-[https://www.virustotal.com/api](https://www.virustotal.com/api)
+[https://docs.virustotal.com/reference/overview](https://docs.virustotal.com/reference/overview)
 
 **How it is used:**
 
